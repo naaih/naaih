@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=naaih)
-
 ![naaih's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naaih&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
